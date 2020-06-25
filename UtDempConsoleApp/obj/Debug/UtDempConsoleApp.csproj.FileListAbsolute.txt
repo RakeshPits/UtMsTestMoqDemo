@@ -1,0 +1,7 @@
+D:\RAK\Pits\Workshop\UtDemo\UtDempConsoleApp\bin\Debug\UtDempConsoleApp.exe.config
+D:\RAK\Pits\Workshop\UtDemo\UtDempConsoleApp\bin\Debug\UtDempConsoleApp.exe
+D:\RAK\Pits\Workshop\UtDemo\UtDempConsoleApp\bin\Debug\UtDempConsoleApp.pdb
+D:\RAK\Pits\Workshop\UtDemo\UtDempConsoleApp\obj\Debug\UtDempConsoleApp.csprojAssemblyReference.cache
+D:\RAK\Pits\Workshop\UtDemo\UtDempConsoleApp\obj\Debug\UtDempConsoleApp.csproj.CoreCompileInputs.cache
+D:\RAK\Pits\Workshop\UtDemo\UtDempConsoleApp\obj\Debug\UtDempConsoleApp.exe
+D:\RAK\Pits\Workshop\UtDemo\UtDempConsoleApp\obj\Debug\UtDempConsoleApp.pdb

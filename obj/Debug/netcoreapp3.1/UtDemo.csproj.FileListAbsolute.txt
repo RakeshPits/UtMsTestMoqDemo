@@ -1,0 +1,12 @@
+D:\RAK\Pits\Workshop\UtDemo\obj\Debug\netcoreapp3.1\UtDemo.AssemblyInfoInputs.cache
+D:\RAK\Pits\Workshop\UtDemo\obj\Debug\netcoreapp3.1\UtDemo.AssemblyInfo.cs
+D:\RAK\Pits\Workshop\UtDemo\obj\Debug\netcoreapp3.1\UtDemo.csproj.CoreCompileInputs.cache
+D:\RAK\Pits\Workshop\UtDemo\bin\Debug\netcoreapp3.1\UtDemo.exe
+D:\RAK\Pits\Workshop\UtDemo\bin\Debug\netcoreapp3.1\UtDemo.deps.json
+D:\RAK\Pits\Workshop\UtDemo\bin\Debug\netcoreapp3.1\UtDemo.runtimeconfig.json
+D:\RAK\Pits\Workshop\UtDemo\bin\Debug\netcoreapp3.1\UtDemo.runtimeconfig.dev.json
+D:\RAK\Pits\Workshop\UtDemo\bin\Debug\netcoreapp3.1\UtDemo.dll
+D:\RAK\Pits\Workshop\UtDemo\bin\Debug\netcoreapp3.1\UtDemo.pdb
+D:\RAK\Pits\Workshop\UtDemo\obj\Debug\netcoreapp3.1\UtDemo.dll
+D:\RAK\Pits\Workshop\UtDemo\obj\Debug\netcoreapp3.1\UtDemo.pdb
+D:\RAK\Pits\Workshop\UtDemo\obj\Debug\netcoreapp3.1\UtDemo.genruntimeconfig.cache
